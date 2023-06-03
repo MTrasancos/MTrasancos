@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MTrasancos
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in programming and Artificial Intelligence
 - 🌱 I’m currently learning Machine learning and deep learning
 - 💞️ I’m looking to collaborate on application development with neural networks
 - 📫 How to reach me www.linkedin.com/in/marta-trasancos-09178063
